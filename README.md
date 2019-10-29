@@ -8,3 +8,20 @@ Run the application using:
     python3 main.py
 ```
 or open App.desktop if you are using Linux
+
+## Dependencies
+
+PIL (Pillow)
+```
+    pip install Pillow
+```
+
+Numpy
+```
+    pip install numpy
+```
+
+GI (for Debian based systems)
+```
+    sudo apt install python3-gi
+```
