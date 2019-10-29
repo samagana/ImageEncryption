@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=app
+Name[en_US]=App
+Exec=bash -c 'cd $(dirname %k) && ./main.py'
+Name=App
+Icon=app
